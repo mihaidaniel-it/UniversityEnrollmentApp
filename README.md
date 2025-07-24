@@ -24,9 +24,9 @@ git clone https://github.com/mihaidaniel-it/UniversityEnrollmentApp.git
 
 cd UniversityEnrollmentApp
 
-javac UniversityEnrollmentApp.java
+javac EnrollmentAlgoritm.java
 
-java UniversityEnrollmentApp
+java EnrollmentAlgoritm
 ```
 
 ## 📫 Contact
